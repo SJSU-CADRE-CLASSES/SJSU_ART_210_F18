@@ -67,22 +67,22 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 08/22      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
-| *Week 2* 08/29      | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: https://schloss-post.com/pretend-bot-rehumanize-web/ or http://andrewblanton.com/Kittler_Ogger.pdf** ** Introduction to HTML |
-| *Week 3* 09/05      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: http://idyrself.com/** Website Setup and Git Pipeline |
-| *Week 4* 09/12      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249** ** HTML 2 |
-| *Week 5* 09/19      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Ways of Seeing parts 1-4 https://www.youtube.com/watch?v=0pDE4VX_9Kk https://www.youtube.com/watch?v=m1GI8mNU5Sg https://www.youtube.com/watch?v=Z7wi8jd7aC4 https://www.youtube.com/watch?v=5jTUebm73IY** ** Forming SWITCH Groups and Begin Working on site design|
-| *Week 6* 09/26      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
-| *Week 7* 10/03      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: http://dismagazine.com/disillusioned-2/62143/hito-steyerl-politics-of-post-representation/** ** Group Work Beginning Research For Final |
-| *Week 8* 10/10      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: http://nickbriz.com/thoughtsonglitchart/** or **pdf version:http://nickbriz.com/thoughtsonglitchart/thoughtsonglitchartv2.0.pdf** ** Research and in class work on papers |
-| *Week 9* 10/17      | **Reading 8 Due** **Abstracts and 15 References Due** ** Presentation + Discussion ** **Reading 9: https://www.furtherfield.org/conceptual-art-cryptocurrency-and-beyond/** ** Research and in class work on papers |
+| *Week 1* 08/22      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) ** |
+| *Week 2* 08/29      | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: TBA** ** Introduction to HTML |
+| *Week 3* 09/05      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: TBA** Website Setup and Git Pipeline |
+| *Week 4* 09/12      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: TBA** ** HTML 2 |
+| *Week 5* 09/19      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: TBA** |
+| *Week 6* 09/26      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: TBA** ** |
+| *Week 7* 10/03      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: TBA** ** Group Work Beginning Research For Final |
+| *Week 8* 10/10      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: TBA** ** Research and in class work on papers |
+| *Week 9* 10/17      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: TBA** ** Research and in class work on papers |
 | *Week 10* 10/24     | **Spring Break** |
-| *Week 11* 10/31     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: https://medium.com/holochain/holochain-reinventing-applications-d2ac1e4f25ef** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
-| *Week 12* 11/07     | No Class Due to ATC (Advancement to Candidacy) ** Final Paper Requirements Posted to the git. Students will present their ideas on 04/25 to the class. |
-| *Week 13* 11/14     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: https://www.fastcodesign.com/90137818/dear-elon-forget-killer-robots-heres-what-you-should-really-worry-about**|
+| *Week 11* 10/31     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: TBA** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
+| *Week 12* 11/07     |  |
+| *Week 13* 11/14     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: TBA**|
 | *Week 14* 11/21     | **Reading 11 Due** |
 | *Week 15* 11/28     | Workshop in class for final and SWITCH Build |
-| *Week 16* 12/05     | Final presentations ** Final 7-page paper due no later than Sunday, May 17th The final paper and project format will be assigned in class on Wednesday, Feb 28th and available online in PDF format |
+| *Week 16* 12/05     | Final presentations ** |
 | *Final*             | Final Presentations 5/16 9:45  |
 |                  |  |
 
