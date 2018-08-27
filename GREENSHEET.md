@@ -36,9 +36,9 @@ Readings will be assigned throughout the class.
 
 Suggested texts include:
 
-James Bridle, New Dark Age: Technology and the End of the Future
-Siva Vaidhyanathan, Antisocial Media: How Facebook Disconnects Us and Undermines Democracy
-Jaron Lanier, Ten Arguments for Deleting Your Social Media Accounts Right Now
+1. James Bridle, New Dark Age: Technology and the End of the Future
+2. Siva Vaidhyanathan, Antisocial Media: How Facebook Disconnects Us and Undermines Democracy
+3. Jaron Lanier, Ten Arguments for Deleting Your Social Media Accounts Right Now
 
 Classroom Protocol
 ==================
