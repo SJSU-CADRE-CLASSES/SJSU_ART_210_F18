@@ -86,10 +86,10 @@ Schedule
 | *Week 9* 10/17      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: TBA** ** Research and in class work on papers |
 | *Week 10* 10/24     | **Spring Break** |
 | *Week 11* 10/31     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: TBA** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
-| *Week 12* 11/07     |  |
-| *Week 13* 11/14     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: TBA**|
-| *Week 14* 11/21     | **Reading 11 Due** |
-| *Week 15* 11/28     | Workshop in class for final and SWITCH Build |
+| *Week 12* 11/07     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: TBA** |
+| *Week 13* 11/14     | **Reading 11 Due** |
+| *Week 14* 11/21     | Thanksgiving - No Class |
+| *Week 15* 11/28     | Discussion + Critique of Final Artworks and Papers |
 | *Week 16* 12/05     | Final presentations ** |
 | *Final*             | Final Presentations 5/16 9:45  |
 |                  |  |
