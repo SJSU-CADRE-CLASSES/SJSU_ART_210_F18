@@ -15,3 +15,4 @@ Class Website: https://github.com/ablanton/SJSU_ART_210_F18
 [GreenSheet](https://github.com/ablanton/SJSU_ART_210_F18/blob/master/GREENSHEET.md)
 | [Resources](https://github.com/ablanton/SJSU_ART_210_F18/blob/master/RESOURCES.md)
 | [Class Website](https://github.com/ablanton/SJSU_ART_210_F18)
+_ [Artists](https://github.com/ablanton/SJSU_ART_210_F18/blob/master/ARTISTS.md)
