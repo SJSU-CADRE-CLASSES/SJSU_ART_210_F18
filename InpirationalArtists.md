@@ -4,8 +4,8 @@
 
 ## Session :one: 
 
-Casey Baugh (http://caseybaugh.com/)
-Anthony Antonellis (https://www.anthonyantonellis.com/)
-LaTurbo Avedon (https://turboavedon.com/)
-Stan Brakhage (https://en.wikipedia.org/wiki/Stan_Brakhage)
-Aria Dean (https://en.wikipedia.org/wiki/Aria_Dean)
+Casey Baugh (http://caseybaugh.com/) <br>
+Anthony Antonellis (https://www.anthonyantonellis.com/) <br>
+LaTurbo Avedon (https://turboavedon.com/) <br>
+Stan Brakhage (https://en.wikipedia.org/wiki/Stan_Brakhage) <br>
+Aria Dean (https://en.wikipedia.org/wiki/Aria_Dean) <br> 
