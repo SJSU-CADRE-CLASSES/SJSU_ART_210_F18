@@ -1,7 +1,8 @@
-# Session :one: 
+# List of mentioned Artists
+
 ### 08/22/2018
 
-## List of mentioned Artists
+## Session :one: 
 
 Casey Baugh (http://caseybaugh.com/)
 Anthony Antonellis (https://www.anthonyantonellis.com/)
