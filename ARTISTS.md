@@ -1,4 +1,4 @@
-# List of mentioned Artists
+# List of artists mentioned in class
 ### Session :one: 08/22/2018
 
 Casey Baugh (http://caseybaugh.com/) <br>
