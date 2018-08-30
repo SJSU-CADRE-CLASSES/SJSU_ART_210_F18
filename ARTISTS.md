@@ -10,6 +10,6 @@ Aria Dean (https://en.wikipedia.org/wiki/Aria_Dean) <br>
 
 ### Session :two: 08/29/2018
 
-Yvette Granata (https://yvettegranata.com/)
-Noam Chomsky (https://chomsky.info/) // philosopher, not artist
-Laboria Cuboniks - XenoFeminism (http://www.laboriacuboniks.net/)
+Yvette Granata (https://yvettegranata.com/) <br>
+Noam Chomsky (https://chomsky.info/) // philosopher, not artist <br>
+Laboria Cuboniks - XenoFeminism (http://www.laboriacuboniks.net/) <br>
