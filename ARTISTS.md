@@ -13,3 +13,4 @@ Aria Dean (https://en.wikipedia.org/wiki/Aria_Dean) <br>
 Yvette Granata (https://yvettegranata.com/) <br>
 Noam Chomsky (https://chomsky.info/) // philosopher, not artist <br>
 Laboria Cuboniks - XenoFeminism (http://www.laboriacuboniks.net/) <br>
+Jon Rafman (http://jonrafman.com/)
