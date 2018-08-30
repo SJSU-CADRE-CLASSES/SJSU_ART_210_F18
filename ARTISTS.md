@@ -6,3 +6,10 @@ Anthony Antonellis (https://www.anthonyantonellis.com/) <br>
 LaTurbo Avedon (https://turboavedon.com/) <br>
 Stan Brakhage (https://en.wikipedia.org/wiki/Stan_Brakhage) <br>
 Aria Dean (https://en.wikipedia.org/wiki/Aria_Dean) <br> 
+<br>
+
+### Session :two: 08/29/2018
+
+Yvette Granata (https://yvettegranata.com/)
+Noam Chomsky (https://chomsky.info/) // philosopher, not artist
+Laboria Cuboniks - XenoFeminism (http://www.laboriacuboniks.net/)
