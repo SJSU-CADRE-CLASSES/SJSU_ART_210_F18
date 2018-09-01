@@ -18,7 +18,21 @@ Class Website: https://github.com/ablanton/SJSU_ART_210_F18
 
 Resources
 ---------
+1. leonardo calls https://www.leonardo.info/calls-jobs-and-events
+2. rhizome calls http://rhizome.org/community/
 
-1. SJSU Reddit https://www.reddit.com/r/SJSU/
+Publications
+------------
+1. Leonardo https://www.leonardo.info/
 2. Rhizome http://rhizome.org/
+3. arts.codes http://arts.codes/home.html
+
+Festivals
+---------
+
+Random
+------
+1. SJSU Reddit https://www.reddit.com/r/SJSU/
+2. Realtime Live Coding https://github.com/ojack/hydra
+3. Distributed Cellphone networking https://github.com/nexus-js/nexusHub
 
