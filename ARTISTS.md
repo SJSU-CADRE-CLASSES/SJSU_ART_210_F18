@@ -26,7 +26,7 @@ No Documentation of it :unamused:
 
 ### Session :five: 9/26/2018
 
-Char Davies https://en.wikipedia.org/wiki/Char_Davies
+Char Davies https://en.wikipedia.org/wiki/Char_Davies <br>
 ChromaKey https://www.google.com/search?tbm=isch&sa=1&ei=PCasW4ObGe2x0PEPzK2XoAU&q=superman+chromakey+gif&oq=superman+chromakey+gif&gs_l=img.3...4526.6051..6211...0.0..0.0.0.......3....1..gws-wiz-img.7tMPiiS3UNM#imgrc=NWdf8U41RGFhwM: <br>
 layAR https://www.layar.com/ <br>
 generative mosaic https://vimeo.com/235141538 <br>
@@ -50,3 +50,5 @@ let's paint https://www.youtube.com/watch?v=PvbL_5rH1QQ <br>
 ### Session :six: 10/03/2018
 
 Anthony McCall: Line Describing a Cone https://vimeo.com/29428835 <br>
+Yvette Granata http://www.ctrl-z.net.au/articles/issue-6/granata-processing-lampreys/ <br>
+
