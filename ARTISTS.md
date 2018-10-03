@@ -22,7 +22,7 @@ vr reaction https://www.youtube.com/watch?v=l3V8zeSljUU <br>
 tekken torture https://vimeo.com/15715431 <br>
 
 ### Session :four: 09/19/2018
-No Documentation of it :sad:
+No Documentation of it :unamused:
 
 ### Session :five: 9/26/2018
 
