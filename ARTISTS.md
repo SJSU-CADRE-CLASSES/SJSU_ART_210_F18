@@ -55,5 +55,8 @@ Morehshin Allahyari & Daniel Rourke https://additivism.org/cookbook <br>
 Julia Daviy -- 3D print in fashion https://juliadaviy.com/ <br>
 Behnaz Farahi -- 3D print in fashion http://behnazfarahi.com/ <br>
 Stanley Grauman Weinbaum -- book: PYGMALION'S SPECTACLES http://www.gutenberg.org/files/22893/22893-h/22893-h.htm <br>
-Char Davis - Ephemere https://www.youtube.com/watch?v=XCWaMll0leI
+Char Davis - Ephemere https://www.youtube.com/watch?v=XCWaMll0leI <br>
+Gender swap - experiment with the machine to be another https://vimeo.com/84150219 <br>
+Jeffrey Shaw - Legible Cities https://www.youtube.com/watch?v=61l7Y4MS4aU  <br>
+
 
