@@ -54,4 +54,5 @@ Yvette Granata http://www.ctrl-z.net.au/articles/issue-6/granata-processing-lamp
 Morehshin Allahyari & Daniel Rourke https://additivism.org/cookbook <br>
 Julia Daviy -- 3D print in fashion https://juliadaviy.com/ <br>
 Behnaz Farahi -- 3D print in fashion http://behnazfarahi.com/ <br>
+Stanley Grauman Weinbaum -- book: PYGMALION'S SPECTACLES http://www.gutenberg.org/files/22893/22893-h/22893-h.htm <br>
 
