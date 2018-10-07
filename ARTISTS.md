@@ -51,13 +51,16 @@ let's paint https://www.youtube.com/watch?v=PvbL_5rH1QQ <br>
 
 Anthony McCall: Line Describing a Cone https://vimeo.com/29428835 <br>
 Yvette Granata http://www.ctrl-z.net.au/articles/issue-6/granata-processing-lampreys/ <br>
-Morehshin Allahyari & Daniel Rourke https://additivism.org/cookbook <br>
+Morehshin Allahyari https://additivism.org/cookbook <br>
 Julia Daviy -- 3D print in fashion https://juliadaviy.com/ <br>
 Behnaz Farahi -- 3D print in fashion http://behnazfarahi.com/ <br>
 Stanley Grauman Weinbaum -- book: PYGMALION'S SPECTACLES http://www.gutenberg.org/files/22893/22893-h/22893-h.htm <br>
 Char Davis - Ephemere https://www.youtube.com/watch?v=XCWaMll0leI <br>
 Gender swap - experiment with the machine to be another https://vimeo.com/84150219 <br>
 Jeffrey Shaw - Legible Cities https://www.youtube.com/watch?v=61l7Y4MS4aU  <br>
-Lynn Hershman Leeson - Roberta Breitmore http://www.lynnhershman.com/project/roberta-breitmore/
+Lynn Hershman Leeson - Roberta Breitmore http://www.lynnhershman.com/project/roberta-breitmore/ <br>
+Netochka Nezvanova https://en.wikipedia.org/wiki/Netochka_Nezvanova_(author) <br>
+James Bridal - The New Aesthetic https://jamesbridle.com/works/the-new-aesthetic <br>
+Roberta Breitmore http://www.lynnhershman.com/project/roberta-breitmore/
 
 
