@@ -86,14 +86,14 @@ Schedule
 | *Week 7* 10/03      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: TBA** ** Group Work Beginning Research For Final |
 | *Week 8* 10/10      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: TBA** ** Research and in class work on papers |
 | *Week 9* 10/17      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: TBA** ** Research and in class work on papers |
-| *Week 10* 10/24     | **Spring Break** |
-| *Week 11* 10/31     | **Reading 8 Due** ** Presentation + Discussion ** **Reading 10: TBA** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
-| *Week 12* 11/07     | **Reading 9 Due** Final Presentation Proposals + Discussion/Critique **Reading 10 bonus: TBA** |
-| *Week 13* 11/14     | **Reading 10 Due** |
+| *Week 10* 10/24     | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: TBA** ** Research and in class work on papers |
+| *Week 11* 10/31     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: TBA** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
+| *Week 12* 11/07     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: TBA** |
+| *Week 13* 11/14     | **Reading 11 Due** |
 | *Week 14* 11/21     | Thanksgiving - No Class |
 | *Week 15* 11/28     | Discussion + Critique of Final Artworks and Papers |
 | *Week 16* 12/05     | Final presentations ** |
-| *Final*             | Final Presentations 5/16 9:45  |
+| *Final*             | Final Presentations TBA  |
 |                  |  |
 
 **University Policies**
