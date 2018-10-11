@@ -66,15 +66,17 @@ Roberta Breitmore http://www.lynnhershman.com/project/roberta-breitmore/ <br>
 ### Session :seven: 10/10/2018
 
 Peter Rand http://www.peterrandart.com/ <br>
-global dimming https://en.wikipedia.org/wiki/Global_dimming
-file brazil https://file.org.br/
-holocene https://en.wikipedia.org/wiki/Holocene
-Anthropocene https://en.wikipedia.org/wiki/Anthropocene
-DIA Phallic Symbols https://www.youtube.com/watch?v=LOQsvOkkLq4
-Flat Earth https://theflatearthsociety.org/home/
-DSM-5 https://www.psychiatry.org/psychiatrists/practice/dsm
-Chomsky- Manufacturing Consent https://www.youtube.com/watch?v=tTBWfkE7BXU
-Perfect Double Rainbow https://www.youtube.com/watch?v=OQSNhk5ICTI
-Verso Books https://www.versobooks.com/books
+global dimming https://en.wikipedia.org/wiki/Global_dimming <br>
+file brazil https://file.org.br/ <br>
+holocene https://en.wikipedia.org/wiki/Holocene <br>
+Anthropocene https://en.wikipedia.org/wiki/Anthropocene <br>
+DIA Phallic Symbols https://www.youtube.com/watch?v=LOQsvOkkLq4 <br>
+Flat Earth https://theflatearthsociety.org/home/ <br>
+DSM-5 https://www.psychiatry.org/psychiatrists/practice/dsm <br>
+Chomsky- Manufacturing Consent https://www.youtube.com/watch?v=tTBWfkE7BXU <br>
+Perfect Double Rainbow https://www.youtube.com/watch?v=OQSNhk5ICTI <br>
+Verso Books https://www.versobooks.com/books <br>
+volcanic lavender sunset https://www.google.com/search?q=volcanic+lavender+sunset&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiR9bSw0PzdAhXaIDQIHdKOAQMQ_AUIDigB&biw=1229&bih=685 <br>
+Laysan albatrosses plastic https://ocean.si.edu/ocean-life/seabirds/laysan-albatrosses-plastic-problem
 
 
