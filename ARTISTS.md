@@ -61,6 +61,11 @@ Jeffrey Shaw - Legible Cities https://www.youtube.com/watch?v=61l7Y4MS4aU  <br>
 Lynn Hershman Leeson - Roberta Breitmore http://www.lynnhershman.com/project/roberta-breitmore/ <br>
 Netochka Nezvanova https://en.wikipedia.org/wiki/Netochka_Nezvanova_(author) <br>
 James Bridal - The New Aesthetic https://jamesbridle.com/works/the-new-aesthetic <br>
-Roberta Breitmore http://www.lynnhershman.com/project/roberta-breitmore/
+Roberta Breitmore http://www.lynnhershman.com/project/roberta-breitmore/ <br>
+
+### Session :seven: 10/10/2018
+
+Peter Rand http://www.peterrandart.com/ <br>
+
 
 
