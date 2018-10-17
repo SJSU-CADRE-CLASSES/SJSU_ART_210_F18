@@ -79,4 +79,6 @@ Verso Books https://www.versobooks.com/books <br>
 volcanic lavender sunset https://www.google.com/search?q=volcanic+lavender+sunset&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiR9bSw0PzdAhXaIDQIHdKOAQMQ_AUIDigB&biw=1229&bih=685 <br>
 Laysan albatrosses plastic https://ocean.si.edu/ocean-life/seabirds/laysan-albatrosses-plastic-problem
 
+### Session :eight: 10/17/2018
 
+Claudia Hart - Flower Matrix https://vimeo.com/224252951
