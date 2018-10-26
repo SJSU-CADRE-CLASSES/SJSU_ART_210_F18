@@ -83,3 +83,14 @@ Laysan albatrosses plastic https://ocean.si.edu/ocean-life/seabirds/laysan-albat
 
 Claudia Hart - Flower Matrix https://vimeo.com/224252951 <br>
 Inception VR https://www.youtube.com/watch?v=dI1qrF65w4I <br>
+
+### session :nine: 10/24/2018
+
+File Open Call https://file.org.br/highlight/open-call-file-2019/ <br>
+Mark Klink http://www.srcxor.org/blog/ <br>
+TriTriangle http://tritriangle.net/ <br>
+Implicit Bias http://kirwaninstitute.osu.edu/research/understanding-implicit-bias/ <br>
+Caroline Sinders https://re-publica.com/en/member/5811 <br>
+Ramsey Nasser http://nas.sr/ <br>
+Our Man In Tehran https://www.pbs.org/video/our-man-in-tehran-part-one-p9eu3w/ <br>
+Pace Gallery https://www.pacegallery.com <br>
