@@ -78,22 +78,22 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/22      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) ** |
-| *Week 2* 08/29      | Discussion + Students should have Bridle Book ** **Reading 1: TBA** |
-| *Week 3* 09/05      | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: TBA** |
-| *Week 4* 09/12      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: TBA** |
-| *Week 5* 09/19      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: TBA** |
-| *Week 6* 09/26      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: TBA** ** |
-| *Week 7* 10/03      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: TBA** ** Group Work Beginning Research For Final |
-| *Week 8* 10/10      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: TBA** ** Research and in class work on papers |
-| *Week 9* 10/17      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: TBA** ** Research and in class work on papers |
-| *Week 10* 10/24     | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: TBA** ** Research and in class work on papers |
-| *Week 11* 10/31     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: TBA** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
-| *Week 12* 11/07     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11 bonus: TBA** |
-| *Week 13* 11/14     | **Reading 11 Due** |
+| *Week 2* 08/29      | Discussion + Students should have Bridle Book ** **Reading 1: Dark Age Ch1 ** |
+| *Week 3* 09/05      | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: Dark Age Ch2 ** |
+| *Week 4* 09/12      | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: Dark Age Ch3 ** |
+| *Week 5* 09/19      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: Dark Age Ch4 ** |
+| *Week 6* 09/26      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Dark Age Ch5 ** ** |
+| *Week 7* 10/03      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Dark Age Ch6 ** ** Group Work Beginning Research For Final |
+| *Week 8* 10/10      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: Dark Age Ch7** ** Research and in class work on papers |
+| *Week 9* 10/17      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: Dark Age Ch8** ** Research and in class work on papers |
+| *Week 10* 10/24     | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: Dark Age Ch9** ** Research and in class work on papers |
+| *Week 11* 10/31     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: Dark Age Ch10** ** Research and in class work on papers Due:**Outlines Posted to GitHub** |
+| *Week 12* 11/07     | **Reading 10 Due** Final Presentation Proposals + Discussion/Critique **Reading 11: Negarestani Intro + Bacterial Archeology TBA** |
+| *Week 13* 11/14     | **Reading 11 Due** **Reading 12: Negarestani Exhumations** |
 | *Week 14* 11/21     | Thanksgiving - No Class |
-| *Week 15* 11/28     | Discussion + Critique of Final Artworks and Papers |
-| *Week 16* 12/05     | Final presentations ** |
-| *Final*             | Final Presentations TBA  |
+| *Week 15* 11/28     | Discussion + Critique of Final Artworks and Papers **Reading 13: Negarestani The Legion** |
+| *Week 16* 12/05     | Final presentations ** **Reading 13: Negarestani Tellurian Insurgencies ** |
+| *Final*             | Final Presentations TBA **Reading 13: Negarestani Uncharted Regions + Polytics** |
 |                  |  |
 
 **University Policies**
